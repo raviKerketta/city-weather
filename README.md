@@ -8,3 +8,5 @@
 
 <h3>About-Application:</h3> 
 Its a simple application to get weather forecast of your city.
+<p><img src="img/Screenshot (33).png"></p>
+<p><img src="img/Screenshot (34).png"></p>
