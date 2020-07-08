@@ -1,6 +1,7 @@
 # city-weather
 
-Technology-Used: Django, Python
+<h3>Technology-Used:</h3>
+Django, Python
 
-<h1>About-Application:</h1> 
+<h3>About-Application:</h3> 
 Its a simple application to get weather forecast of your city.
